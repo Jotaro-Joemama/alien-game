@@ -1,0 +1,13 @@
+# Alien Invasion
+
+This repository contains the starter code for the Alien Invasion project.
+
+## Project Files
+
+- `alien_invasion.py` — Main Python file for the game.
+- `Assets/` — Game assets.
+- `requirements.txt` — Python dependencies.
+
+## Purpose
+
+This project is being used for coursework and will be updated as I complete the class tutorials and activities.
