@@ -1,13 +1,44 @@
-# Alien Invasion
+# Starbase Defender
 
-This repository contains the starter code for the Alien Invasion project.
+A customized version of the Alien Invasion project for Track 2: Custom Game Assets.
 
 ## Project Files
 
 - `alien_invasion.py` — Main Python file for the game.
-- `Assets/` — Game assets.
+- `settings.py` — Game settings and configuration.
+- `ship.py` — Player ship behavior.
+- `bullet.py` — Player projectile behavior.
+- `Assets/images/` — Custom game artwork.
+- `Assets/sound/` — Game sound effects.
 - `requirements.txt` — Python dependencies.
+
+## Milestone 1 — Custom Game Assets
+
+This milestone introduces a space-themed redesign of the original game.
+
+- Custom space background.
+- Custom player ship.
+- Custom laser projectile.
+- Laser firing sound effect.
+
+## Running the Game
+
+Install the dependencies:
+
+```powershell
+py -3.13 -m pip install -r requirements.txt
+```
+
+Start the game:
+
+```powershell
+py -3.13 alien_invasion.py
+```
+
+## Milestone 1 Demo
+
+[Milestone_1_Demo](PASTE_YOUR_UNLISTED_YOUTUBE_LINK_HERE)
 
 ## Purpose
 
-This project is being used for coursework and will be updated as I complete the class tutorials and activities.
+This project is being developed for coursework as part of the Software Development program. Future milestones will expand and improve the game.
